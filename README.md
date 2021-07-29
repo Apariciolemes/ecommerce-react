@@ -30,9 +30,9 @@ Rodar o JSON Server
  
 ## Showcase
 
-##### Homepage
+##### Lista de Produtos
 
-<img align="center"  src="src/assets/ecommerce-1.PNG" />
+<img align="center"  src="src/assets/images/ecommerce-1.PNG" />
 
-##### Modal
-<img align="center" src="src/assets/ecommerce-2.PNG" />
+##### Carinho de Compras
+<img align="center" src="src/assets/images/ecommerce-2.PNG" />
